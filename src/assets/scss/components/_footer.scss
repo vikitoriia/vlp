@@ -1,0 +1,26 @@
+.ba-footer{
+	@include breakpoint(large){
+		background-image: linear-gradient(
+				to right,
+				#f6f6f6 0%,
+				#f6f6f6 49%, 
+				#e7e7e7 50%,  
+				#e7e7e7 100%
+			);		 
+	}
+	&__col-1{
+		background: #f6f6f6;	
+		padding: 20px;	
+	}
+	&__col-2{
+		background: #f0f0f0;
+		padding: 30px;
+	}
+	&__col-3{
+		background: #e7e7e7;
+		padding: 30px;
+	}
+}
+.ba-copyright{
+    
+}

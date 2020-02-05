@@ -1,0 +1,65 @@
+[
+	{  "id": "1", 
+		"title": "Математика", 
+		"authors": "Гетман В. И.", 
+		"price" : "120", 
+		"url": "single.html",
+		"img" : "assets/img/id1.jpg"
+	},
+	{  "id": "2", 
+		"title": "Математика", 
+		"authors": "Гетман В. И.", 
+		"price" : "220", 
+		"url": "single.html",
+		"img" : "assets/img/id2.jpg"
+	},
+	{  "id": "3", 
+		"title": "Математика", 
+		"authors": "Гетман В. И.", 
+		"price" : "160", 
+		"url": "single.html",
+		"img" : "assets/img/id3.jpg"
+	},
+	{  "id": "3", 
+		"title": "Математика", 
+		"authors": "Гетман В. И.", 
+		"price" : "160", 
+		"url": "single.html",
+		"img" : "assets/img/id4.jpg"
+	},
+	{  "id": "3", 
+		"title": "Математика", 
+		"authors": "Гетман В. И.", 
+		"price" : "160", 
+		"url": "single.html",
+		"img" : "assets/img/id5.jpg"
+	},
+	{  "id": "3", 
+		"title": "Математика", 
+		"authors": "Гетман В. И.", 
+		"price" : "60", 
+		"url": "single.html",
+		"img" : "assets/img/id6.jpg"
+	},
+	{  "id": "3", 
+		"title": "Математика", 
+		"authors": "Гетман В. И.", 
+		"price" : "60", 
+		"url": "single.html",
+		"img" : "assets/img/id7.jpg"
+	},
+	{  "id": "3", 
+		"title": "Математика", 
+		"authors": "Гетман В. И.", 
+		"price" : "360", 
+		"url": "single.html",
+		"img" : "assets/img/id8.jpg"
+	},
+	{  "id": "3", 
+		"title": "Математика", 
+		"authors": "Гетман В. И.", 
+		"price" : "460", 
+		"url": "single.html",
+		"img" : "assets/img/id9.jpg"
+	}
+]
